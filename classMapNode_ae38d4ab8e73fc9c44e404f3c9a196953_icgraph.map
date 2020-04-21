@@ -1,0 +1,5 @@
+<map id="MapNode::isLayerOccupied" name="MapNode::isLayerOccupied">
+<area shape="rect" id="node2" href="$classMapNode.html#a26e55c94192a56990f8a59e7af139a73" title="MapNode::setTileID" alt="" coords="289,5,438,32"/>
+<area shape="rect" id="node4" href="$classMapNode.html#a3d88c4eff75c599fb6fd37afd1c882b6" title="MapNode::isPlacementAllowed" alt="" coords="252,56,475,83"/>
+<area shape="rect" id="node3" href="$classMapNode.html#ae515fc96b543bf97237bfb1ca53fe571" title="MapNode::MapNode" alt="" coords="523,5,675,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Map::getObjectCoords" name="Map::getObjectCoords">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="223,5,401,47"/>
+<area shape="rect" id="node3" href="$classTileManager.html#a8ee071ff8b24926288437d310f9bc714" title="TileManager::getTileData" alt="" coords="219,71,405,98"/>
+</map>

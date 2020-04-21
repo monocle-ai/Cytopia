@@ -1,0 +1,7 @@
+<map id="TileManager::calculateSlopeOrientation" name="TileManager::calculateSlopeOrientation">
+<area shape="rect" id="node2" href="$classMapNode.html#aabbb10c19ddd79e9c519eb4af5e995e0" title="MapNode::updateTexture" alt="" coords="259,51,443,78"/>
+<area shape="rect" id="node3" href="$classMapNode.html#ae515fc96b543bf97237bfb1ca53fe571" title="MapNode::MapNode" alt="" coords="724,26,876,53"/>
+<area shape="rect" id="node4" href="$classMapNode.html#a92b521fa20e0a75d81523a52ba1d8250" title="MapNode::setBitmask" alt="" coords="501,26,666,53"/>
+<area shape="rect" id="node5" href="$classMapNode.html#a26e55c94192a56990f8a59e7af139a73" title="MapNode::setTileID" alt="" coords="509,77,658,103"/>
+<area shape="rect" id="node6" href="$classMapNode.html#a002b868485074599fbf087fc4c96b2c9" title="Demolish a node Removes all tiles on a node. This effects all layers where something to demolish is p..." alt="" coords="491,127,676,154"/>
+</map>

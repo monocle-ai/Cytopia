@@ -1,0 +1,20 @@
+<map id="src/Game.hxx" name="src/Game.hxx">
+<area shape="rect" id="node2" href="$ScriptEngine_8hxx.html" title="Scripting/ScriptEngine.hxx" alt="" coords="567,80,759,107"/>
+<area shape="rect" id="node3" href="$MessageQueue_8hxx.html" title="engine/MessageQueue.hxx" alt="" coords="383,155,581,181"/>
+<area shape="rect" id="node13" href="$Meta_8hxx.html" title="util/Meta.hxx" alt="" coords="1255,304,1362,331"/>
+<area shape="rect" id="node20" href="$GameService_8hxx.html" title="GameService.hxx" alt="" coords="1121,155,1259,181"/>
+<area shape="rect" id="node22" href="$Randomizer_8hxx.html" title="services/Randomizer.hxx" alt="" coords="1023,80,1208,107"/>
+<area shape="rect" id="node25" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="1435,155,1513,181"/>
+<area shape="rect" id="node26" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="1306,229,1421,256"/>
+<area shape="rect" id="node37" href="$GameClock_8hxx.html" title="services/GameClock.hxx" alt="" coords="1459,80,1641,107"/>
+<area shape="rect" id="node41" href="$ResourceManager_8hxx.html" title="services/ResourceManager.hxx" alt="" coords="2175,80,2397,107"/>
+<area shape="rect" id="node44" href="$Game_8inl_8hxx.html" title="Game.inl.hxx" alt="" coords="2422,80,2531,107"/>
+<area shape="rect" id="node10" href="$Events_8hxx.html" title="../Events.hxx" alt="" coords="591,229,698,256"/>
+<area shape="rect" id="node19" href="$MessageQueue_8inl_8hxx.html" title="MessageQueue.inl.hxx" alt="" coords="397,229,567,256"/>
+<area shape="rect" id="node18" href="$UIEvents_8hxx.html" title="events/UIEvents.hxx" alt="" coords="657,304,813,331"/>
+<area shape="rect" id="node21" href="$GameService_8inl_8hxx.html" title="GameService.inl.hxx" alt="" coords="885,229,1042,256"/>
+<area shape="rect" id="node35" href="$filesystem_8hxx.html" title="filesystem.hxx" alt="" coords="1917,229,2036,256"/>
+<area shape="rect" id="node36" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="2060,229,2157,256"/>
+<area shape="rect" id="node40" href="$GameClock_8inl_8hxx.html" title="GameClock.inl.hxx" alt="" coords="1675,155,1820,181"/>
+<area shape="rect" id="node43" href="$ResourceManager_8inl_8hxx.html" title="ResourceManager.inl.hxx" alt="" coords="2523,155,2707,181"/>
+</map>

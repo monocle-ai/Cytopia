@@ -1,0 +1,23 @@
+<map id="src/services/ResourceManager.cxx" name="src/services/ResourceManager.cxx">
+<area shape="rect" id="node2" href="$ResourceManager_8hxx.html" title="ResourceManager.hxx" alt="" coords="345,155,509,181"/>
+<area shape="rect" id="node16" href="$Exception_8hxx.html" title="../util/Exception.hxx" alt="" coords="591,304,742,331"/>
+<area shape="rect" id="node19" href="$LOG_8hxx.html" title="../util/LOG.hxx" alt="" coords="1024,229,1139,256"/>
+<area shape="rect" id="node30" href="$JsonSerialization_8hxx.html" title="common/JsonSerialization.hxx" alt="" coords="1944,80,2163,107"/>
+<area shape="rect" id="node5" href="$GameService_8hxx.html" title="../GameService.hxx" alt="" coords="213,229,363,256"/>
+<area shape="rect" id="node8" href="$Meta_8hxx.html" title="util/Meta.hxx" alt="" coords="292,379,399,405"/>
+<area shape="rect" id="node15" href="$ResourceManager_8inl_8hxx.html" title="ResourceManager.inl.hxx" alt="" coords="5,229,189,256"/>
+<area shape="rect" id="node6" href="$Events_8hxx.html" title="Events.hxx" alt="" coords="87,304,182,331"/>
+<area shape="rect" id="node14" href="$GameService_8inl_8hxx.html" title="GameService.inl.hxx" alt="" coords="207,304,364,331"/>
+<area shape="rect" id="node13" href="$UIEvents_8hxx.html" title="events/UIEvents.hxx" alt="" coords="111,379,267,405"/>
+<area shape="rect" id="node27" href="$filesystem_8hxx.html" title="filesystem.hxx" alt="" coords="818,304,937,331"/>
+<area shape="rect" id="node29" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="1322,304,1419,331"/>
+<area shape="rect" id="node32" href="$point_8hxx.html" title="point.hxx" alt="" coords="2371,379,2453,405"/>
+<area shape="rect" id="node33" href="$MapNode_8hxx.html" title="GameObjects/MapNode.hxx" alt="" coords="2156,229,2359,256"/>
+<area shape="rect" id="node43" href="$TerrainGenerator_8hxx.html" title="TerrainGenerator.hxx" alt="" coords="2671,155,2830,181"/>
+<area shape="rect" id="node45" href="$Settings_8hxx.html" title="Settings.hxx" alt="" coords="1651,304,1754,331"/>
+<area shape="rect" id="node36" href="$Sprite_8hxx.html" title="../Sprite.hxx" alt="" coords="2447,304,2547,331"/>
+<area shape="rect" id="node37" href="$enums_8hxx.html" title="common/enums.hxx" alt="" coords="2169,453,2324,480"/>
+<area shape="rect" id="node39" href="$TileManager_8hxx.html" title="../TileManager.hxx" alt="" coords="1880,304,2021,331"/>
+<area shape="rect" id="node40" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="2110,379,2213,405"/>
+<area shape="rect" id="node41" href="$Singleton_8hxx.html" title="Singleton.hxx" alt="" coords="1431,379,1542,405"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="src/services/AudioMixer.hxx" name="src/services/AudioMixer.hxx">
+<area shape="rect" id="node7" href="$AudioEvents_8hxx.html" title="../events/AudioEvents.hxx" alt="" coords="509,80,699,107"/>
+<area shape="rect" id="node8" href="$Soundtrack_8hxx.html" title="../engine/audio/Soundtrack.hxx" alt="" coords="613,229,835,256"/>
+<area shape="rect" id="node11" href="$Meta_8hxx.html" title="../../util/Meta.hxx" alt="" coords="948,304,1079,331"/>
+<area shape="rect" id="node16" href="$AudioConfig_8hxx.html" title="../engine/audio/AudioConfig.hxx" alt="" coords="421,155,649,181"/>
+<area shape="rect" id="node20" href="$GameService_8hxx.html" title="../GameService.hxx" alt="" coords="1068,80,1217,107"/>
+<area shape="rect" id="node21" href="$Events_8hxx.html" title="Events.hxx" alt="" coords="1077,155,1171,181"/>
+<area shape="rect" id="node23" href="$GameService_8inl_8hxx.html" title="GameService.inl.hxx" alt="" coords="1196,155,1353,181"/>
+<area shape="rect" id="node22" href="$UIEvents_8hxx.html" title="events/UIEvents.hxx" alt="" coords="1170,229,1326,256"/>
+</map>

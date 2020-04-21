@@ -1,0 +1,6 @@
+<map id="MapNode::getCoordinates" name="MapNode::getCoordinates">
+<area shape="rect" id="node2" href="$classMapNode.html#a06be1917d4b251010ae78d8a2b7bc88a" title="demolish specific layer of a Node. " alt="" coords="244,31,431,57"/>
+<area shape="rect" id="node3" href="$classMapNode.html#a26e55c94192a56990f8a59e7af139a73" title="MapNode::setTileID" alt="" coords="497,5,646,32"/>
+<area shape="rect" id="node5" href="$classMapNode.html#a002b868485074599fbf087fc4c96b2c9" title="Demolish a node Removes all tiles on a node. This effects all layers where something to demolish is p..." alt="" coords="479,56,664,83"/>
+<area shape="rect" id="node4" href="$classMapNode.html#ae515fc96b543bf97237bfb1ca53fe571" title="MapNode::MapNode" alt="" coords="712,5,864,32"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="src/services/GameClock.cxx" name="src/services/GameClock.cxx">
+<area shape="rect" id="node2" href="$GameClock_8hxx.html" title="GameClock.hxx" alt="" coords="362,80,487,107"/>
+<area shape="rect" id="node20" href="$LOG_8hxx.html" title="../util/LOG.hxx" alt="" coords="1041,80,1155,107"/>
+<area shape="rect" id="node8" href="$GameService_8hxx.html" title="../GameService.hxx" alt="" coords="350,155,499,181"/>
+<area shape="rect" id="node19" href="$GameClock_8inl_8hxx.html" title="GameClock.inl.hxx" alt="" coords="5,155,151,181"/>
+<area shape="rect" id="node9" href="$Events_8hxx.html" title="Events.hxx" alt="" coords="671,229,765,256"/>
+<area shape="rect" id="node18" href="$GameService_8inl_8hxx.html" title="GameService.inl.hxx" alt="" coords="346,229,503,256"/>
+<area shape="rect" id="node12" href="$Meta_8hxx.html" title="util/Meta.hxx" alt="" coords="903,304,1010,331"/>
+<area shape="rect" id="node17" href="$UIEvents_8hxx.html" title="events/UIEvents.hxx" alt="" coords="640,304,796,331"/>
+<area shape="rect" id="node21" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="1089,155,1203,181"/>
+<area shape="rect" id="node29" href="$filesystem_8hxx.html" title="filesystem.hxx" alt="" coords="1700,155,1819,181"/>
+<area shape="rect" id="node31" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="815,155,912,181"/>
+</map>

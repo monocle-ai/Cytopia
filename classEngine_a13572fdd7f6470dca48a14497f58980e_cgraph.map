@@ -1,0 +1,17 @@
+<map id="Engine::decreaseHeight" name="Engine::decreaseHeight">
+<area shape="rect" id="node2" href="$classMap.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="229,171,388,198"/>
+<area shape="rect" id="node3" href="$classMap.html#aab37e4a52faf81e9b696b8cf1bd9a690" title="Get neighbor MapNode Objects Stores pointers to the neighboring nodes of the given coordinates in the..." alt="" coords="1208,177,1352,203"/>
+<area shape="rect" id="node4" href="$isoMath_8cxx.html#a7fa61c3d8ef446fb1c48dc4838023649" title="Check if given coordinates are within map boundaries Checks if coordinates are within map boundaries..." alt="" coords="1176,317,1384,343"/>
+<area shape="rect" id="node6" href="$classMap.html#aa8cc2ed983007621bce12dd9d1b8ec5b" title="Demolish a node This function gathers all tiles that should be demolished and invokes the nodes demol..." alt="" coords="436,310,587,337"/>
+<area shape="rect" id="node12" href="$classMap.html#a59d21f2688713fbcfe320eb1b24405ca" title="Update mapNode and its adjacent tiles Updates mapNode height information, draws slopes for adjacent t..." alt="" coords="638,177,855,203"/>
+<area shape="rect" id="node5" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="1432,309,1583,351"/>
+<area shape="rect" id="node7" href="$classMapNode.html#a6b57e4355d0780fb37c34d63bbcdfdf9" title="MapNode::getMapNodeDataFor\lLayer" alt="" coords="635,507,859,548"/>
+<area shape="rect" id="node8" href="$classMap.html#ab6685363fde5a50c749adab9df96c231" title="whether a node is a multiobject or not (bigger than 1x1 building) " alt="" coords="659,386,835,413"/>
+<area shape="rect" id="node10" href="$classMap.html#a3952b445c55efce61c1ccac6f362fe89" title="Return vector of Points of an Object Tiles selection. " alt="" coords="664,455,829,482"/>
+<area shape="rect" id="node9" href="$classMapNode.html#adf88174897b884c97d327e710dea7f5e" title="MapNode::getTileData" alt="" coords="934,430,1101,457"/>
+<area shape="rect" id="node11" href="$classTileManager.html#a8ee071ff8b24926288437d310f9bc714" title="TileManager::getTileData" alt="" coords="924,531,1111,558"/>
+<area shape="rect" id="node13" href="$classMap.html#a0ff55eb041cdf29aa582a21145319ce0" title="Get elevated neighbor positions in a bitmask Checks all neighboring tiles and returns the elevated ne..." alt="" coords="920,111,1115,152"/>
+<area shape="rect" id="node14" href="$classMap.html#a3f5c7dd50cdc712e1ef18047cf619888" title="Get a bitmask that represents same&#45;tile neighbors Checks all neighboring tiles and returns the elevat..." alt="" coords="907,59,1128,86"/>
+<area shape="rect" id="node16" href="$classMap.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="940,227,1095,254"/>
+<area shape="rect" id="node15" href="$classMap.html#a4700614f8c7d02b9ca18ad7e916a2312" title="Map::isLayerAutoTile" alt="" coords="1201,59,1359,86"/>
+</map>

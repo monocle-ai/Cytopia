@@ -1,0 +1,32 @@
+<map id="Engine::setTileIDOfNode" name="Engine::setTileIDOfNode">
+<area shape="rect" id="node2" href="$classMap.html#a404c38b33d61f8c63ce2c2efb864d6dd" title="Set the Tile ID Of Node object Also invokes all necessary texture updates (auto&#45;tiling, slopes, ...) " alt="" coords="235,423,399,449"/>
+<area shape="rect" id="node3" href="$classMap.html#a609379595b9b172ad3d0e6363817c00f" title="Map::isPlacementOnNodeAllowed" alt="" coords="1432,667,1673,693"/>
+<area shape="rect" id="node4" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="1721,314,1900,355"/>
+<area shape="rect" id="node5" href="$classTileManager.html#a105151a0c336807e918aff002ffd6101" title="TileManager::getTileLayer" alt="" coords="907,128,1098,155"/>
+<area shape="rect" id="node7" href="$classMap.html#aa8cc2ed983007621bce12dd9d1b8ec5b" title="Demolish a node This function gathers all tiles that should be demolished and invokes the nodes demol..." alt="" coords="687,347,838,373"/>
+<area shape="rect" id="node10" href="$classMap.html#ab6685363fde5a50c749adab9df96c231" title="whether a node is a multiobject or not (bigger than 1x1 building) " alt="" coords="915,179,1091,205"/>
+<area shape="rect" id="node12" href="$classMap.html#a3952b445c55efce61c1ccac6f362fe89" title="Return vector of Points of an Object Tiles selection. " alt="" coords="920,229,1085,256"/>
+<area shape="rect" id="node13" href="$classMap.html#a59d21f2688713fbcfe320eb1b24405ca" title="Update mapNode and its adjacent tiles Updates mapNode height information, draws slopes for adjacent t..." alt="" coords="894,499,1111,525"/>
+<area shape="rect" id="node20" href="$classMapNode.html#a64cb9a4523c9e78f256fde42f1dee43d" title="check if specific Tile Data is autotile category. " alt="" coords="447,549,634,576"/>
+<area shape="rect" id="node21" href="$classMap.html#ab69938ac0e56eb0da1d1701221f3d185" title="Refresh all the map tile textures. " alt="" coords="489,600,592,627"/>
+<area shape="rect" id="node22" href="$classMap.html#a2dda1bb4e2785396a974c950a55aa679" title="Get original corner point of given point within building borders. " alt="" coords="895,53,1110,80"/>
+<area shape="rect" id="node23" href="$classMap.html#ae48ef4fa6a6f73d886211bca59123151" title="Map::saveMapToFile" alt="" coords="465,651,616,677"/>
+<area shape="rect" id="node25" href="$classMap.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="457,448,624,475"/>
+<area shape="rect" id="node29" href="$classMap.html#a0241b997090783e5d13667114731a592" title="Debug MapNodeData to Console Used as Tile&#45;Inspector until we implement a GUI variant. " alt="" coords="447,701,635,728"/>
+<area shape="rect" id="node30" href="$classMap.html#a5301e6a354460af86af3b32cd43a55ac" title="Map::getTileID" alt="" coords="483,752,599,779"/>
+<area shape="rect" id="node6" href="$classTileManager.html#a8ee071ff8b24926288437d310f9bc714" title="TileManager::getTileData" alt="" coords="1180,144,1367,171"/>
+<area shape="rect" id="node8" href="$isoMath_8cxx.html#a7fa61c3d8ef446fb1c48dc4838023649" title="Check if given coordinates are within map boundaries Checks if coordinates are within map boundaries..." alt="" coords="1449,347,1657,373"/>
+<area shape="rect" id="node9" href="$classMapNode.html#a6b57e4355d0780fb37c34d63bbcdfdf9" title="MapNode::getMapNodeDataFor\lLayer" alt="" coords="891,281,1115,322"/>
+<area shape="rect" id="node11" href="$classMapNode.html#adf88174897b884c97d327e710dea7f5e" title="MapNode::getTileData" alt="" coords="1190,245,1357,272"/>
+<area shape="rect" id="node14" href="$classMap.html#aab37e4a52faf81e9b696b8cf1bd9a690" title="Get neighbor MapNode Objects Stores pointers to the neighboring nodes of the given coordinates in the..." alt="" coords="1481,448,1625,475"/>
+<area shape="rect" id="node15" href="$classMap.html#a0ff55eb041cdf29aa582a21145319ce0" title="Get elevated neighbor positions in a bitmask Checks all neighboring tiles and returns the elevated ne..." alt="" coords="1176,499,1371,541"/>
+<area shape="rect" id="node16" href="$classMap.html#a3f5c7dd50cdc712e1ef18047cf619888" title="Get a bitmask that represents same&#45;tile neighbors Checks all neighboring tiles and returns the elevat..." alt="" coords="1163,616,1384,643"/>
+<area shape="rect" id="node18" href="$classMap.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="1196,448,1351,475"/>
+<area shape="rect" id="node19" href="$classMap.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="1194,397,1353,424"/>
+<area shape="rect" id="node17" href="$classMap.html#a4700614f8c7d02b9ca18ad7e916a2312" title="Map::isLayerAutoTile" alt="" coords="1473,616,1632,643"/>
+<area shape="rect" id="node24" href="$compression_8hxx.html#a2b136078ca5d23222e9c24092a9918fa" title="Compress a given string with zlib Compress the given string. Returns an empty string if something wen..." alt="" coords="701,651,824,677"/>
+<area shape="rect" id="node26" href="$compression_8hxx.html#a25f341059256700f2f3ffd62d8113956" title="decompresses given string Decompresses a given string. " alt="" coords="693,549,832,576"/>
+<area shape="rect" id="node27" href="$classMap.html#a1197ab65e40dd20b891ba165471e3163" title="Map::Map" alt="" coords="721,448,805,475"/>
+<area shape="rect" id="node28" href="$classMap.html#a481b37ba71ef0e51e836fc42805762dd" title="Update all mapNodes Updates all mapNode and its adjacent tiles regarding height information, draws slopes for adjacent tiles and sets tiling for mapNode sprite if applicable. " alt="" coords="683,499,843,525"/>
+<area shape="rect" id="node31" href="$classMapNode.html#ab34930f43b60310cd475f514e969a401" title="get TileID of specific layer inside NodeData. " alt="" coords="687,752,838,779"/>
+</map>
